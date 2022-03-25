@@ -1,0 +1,99 @@
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    justify-content: space-between;
+    background-color: aqua;
+}
+.pokemon-article {
+    background-color: #Fff;
+    display: flex;
+    flex-direction: column;
+}
+.pokemon-title {
+    margin: 0;
+    font-size: 50px;
+}
+.pokemon-text {
+    margin: 0;
+    font-size: 40px;
+}
+.pokemon-img {
+    width: 200px;
+    height: 200px;
+}
+.pokemon-btn {
+    padding: 0;
+    margin-top: 10px;
+    padding: 8px 5px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(197, 211, 13);
+    color: #Fff;
+    text-transform: uppercase;
+    width: fit-content;
+    display: inline-block;
+    margin-left: 30px;
+}
+.batman-article {
+    display: flex;
+    flex-direction: column;
+    background-color: #Fff;
+}
+.batman-img {
+    width: 200px;
+    height: 200px;
+}
+.batman-link {
+    padding: 0;
+    margin-top: 10px;
+    padding: 8px 5px;
+    border-radius: 5px;
+    border: none;
+    background-color: #00f;
+    color: #Fff;
+    text-transform: uppercase;
+    width: fit-content;
+    display: inline-block;
+    margin-left: 30px;
+}
+.batman-title {
+    margin: 0;
+    font-size: 50px;
+}
+.batman-text {
+    margin: 0;
+    font-size: 40px;
+}
+.uzbKino-article {
+    display: flex;
+    flex-direction: column;
+    background-color: #Fff;
+}
+.uzbKino-img {
+    width: 250px;
+    height: 200px;
+}
+.uzbKino-title {
+    margin: 0;
+    font-size: 50px;
+}
+.uzbKino-text {
+    margin: 0;
+    font-size: 40px;
+}
+.uzbKino-link {
+    padding: 0;
+    margin-top: 10px;
+    padding: 8px 5px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(142, 152, 153);
+    color: #Fff;
+    text-transform: uppercase;
+    width: fit-content;
+    display: inline-block;
+    margin-left: 30px;
+}
